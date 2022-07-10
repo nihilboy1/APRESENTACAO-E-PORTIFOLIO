@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #09090D;
+
+  .socialBox {
+    position: absolute;
+    display: flex;
+    gap: 1rem;
+    margin-top: 0.8rem;
+    right: 10rem;
+  }
+
+  h1 {
+    font-size: 4rem;
+    font-family: 'Gentium Book Plus', serif;
+    font-weight: 700;
+    display: flex;
+    color: #4c3f91;
+
+    &::after {
+      position: absolute;
+      content: '';
+      border-bottom: 4px solid #4c3f91;
+      top: 6rem;
+      left: 50%;
+      width: 28.125rem;
+      transform: translate(-50%, -50%);
+    }
+  }
+}
