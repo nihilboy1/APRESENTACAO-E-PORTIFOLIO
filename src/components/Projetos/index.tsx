@@ -1,10 +1,9 @@
 import signupformImage from '../../images/formcomponent1.png'
-import timetrackerImage from '../../images/timetracker1.png'
-import worldtripImage from '../../images/worldtrip1.png'
+import loopstudiosImage from '../../images/loopstudios1.png'
 import nlwreturnImage from '../../images/nlwreturn1.png'
 import pokenextImage from '../../images/pokenext1.png'
-import loopstudiosImage from '../../images/loopstudios1.png'
-
+import timetrackerImage from '../../images/timetracker1.png'
+import worldtripImage from '../../images/worldtrip1.png'
 
 import { Projeto } from './Projeto'
 

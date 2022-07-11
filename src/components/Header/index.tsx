@@ -7,10 +7,14 @@ export function Header() {
       <h1>SAMUEL SEVE</h1>
       <div className={S.socialBox}>
         <a href="https://www.linkedin.com/in/samuelseve1/" target="_blank">
-          <AiFillLinkedin color="#4C3F91" size="3rem" />
+          <div className={S.socialIcon}>
+            <AiFillLinkedin color="#4C3F91" size="100%" />
+          </div>
         </a>
         <a href="https://github.com/nihilboy1" target="_blank">
-          <AiFillGithub color="#4C3F91" size="3rem" />
+          <div className={S.socialIcon}>
+            <AiFillGithub color="#4C3F91" size="100%" />
+          </div>
         </a>
       </div>
     </header>

@@ -1,6 +1,12 @@
-import { FaReact, FaPython, FaHtml5, FaGitAlt, FaFigma } from 'react-icons/fa'
-import { IoLogoNodejs, IoLogoCss3 } from 'react-icons/io'
-import { SiJavascript, SiNextdotjs, SiTypescript, SiChakraui, SiStyledcomponents } from 'react-icons/si'
+import { FaFigma, FaGitAlt, FaHtml5, FaPython, FaReact } from 'react-icons/fa'
+import { IoLogoCss3, IoLogoNodejs } from 'react-icons/io'
+import {
+  SiChakraui,
+  SiJavascript,
+  SiNextdotjs,
+  SiStyledcomponents,
+  SiTypescript
+} from 'react-icons/si'
 import S from './style.module.scss'
 import { Tec } from './Tec'
 

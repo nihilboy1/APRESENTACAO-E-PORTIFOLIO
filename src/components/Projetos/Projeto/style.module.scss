@@ -1,5 +1,5 @@
-.container{
-  img{
+.container {
+  img {
     margin-top: 1rem;
     width: 40rem;
     height: 23.125rem;
@@ -14,7 +14,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    img{
+    img {
       width: 30rem;
       height: 16rem;
       border-radius: 1.5rem 4rem 1.5rem 5rem;
@@ -24,7 +24,7 @@
 
 @media (max-width: 550px) {
   .container {
-    img{
+    img {
       width: 50rem;
       height: 30rem;
       border-radius: 3rem 7rem 3rem 7rem;
