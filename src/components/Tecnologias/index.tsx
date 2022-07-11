@@ -10,40 +10,40 @@ export function Tecnologias() {
       <h2>Tecnologias em Foco:</h2>
       <div className={S.containerGrid}>
         <Tec tecName="React">
-          <FaReact size="55" color="#4c3f91" />
+          <FaReact size="45" color="#4c3f91" />
         </Tec>
         <Tec tecName="NextJS">
-          <SiNextdotjs size="55" color="#4c3f91" />
+          <SiNextdotjs size="45" color="#4c3f91" />
         </Tec>
         <Tec tecName="Node">
-          <IoLogoNodejs size="55" color="#4c3f91" />
+          <IoLogoNodejs size="45" color="#4c3f91" />
         </Tec>
         <Tec tecName="Typescript">
-          <SiTypescript size="55" color="#4c3f91" />
+          <SiTypescript size="45" color="#4c3f91" />
         </Tec>
         <Tec tecName="Javascript">
-          <SiJavascript size="55" color="#4c3f91" />
+          <SiJavascript size="45" color="#4c3f91" />
         </Tec>
         <Tec tecName="Python">
-          <FaPython size="55" color="#4c3f91" />
+          <FaPython size="45" color="#4c3f91" />
         </Tec>
         <Tec tecName="HTML 5">
-          <FaHtml5 size="55" color="#4c3f91" />
+          <FaHtml5 size="45" color="#4c3f91" />
         </Tec>
         <Tec tecName="CSS 3">
-          <IoLogoCss3 size="55" color="#4c3f91" />
+          <IoLogoCss3 size="45" color="#4c3f91" />
         </Tec>
         <Tec tecName="GIT">
-          <FaGitAlt size="55" color="#4c3f91" />
+          <FaGitAlt size="45" color="#4c3f91" />
         </Tec>
         <Tec tecName="Chakra UI">
-          <SiChakraui size="55" color="#4c3f91" />
+          <SiChakraui size="45" color="#4c3f91" />
         </Tec>
         <Tec tecName="StyledComponents">
-          <SiStyledcomponents size="55" color="#4c3f91" />
+          <SiStyledcomponents size="45" color="#4c3f91" />
         </Tec>
         <Tec tecName="Figma">
-          <FaFigma size="55" color="#4c3f91" />
+          <FaFigma size="45" color="#4c3f91" />
         </Tec>
       </div>
     </section>

@@ -2,8 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  border: none;
-  font: 400 1rem 'Rubik', sans-serif;
+  font: 400 16px 'Rubik', sans-serif;
   transition: 0.1s;
   color: var(--brown-500);
 }
@@ -34,14 +33,26 @@ a {
   text-decoration: none;
 }
 
+@media (max-width: 1380px) {
+  html {
+    font-size: 90%;
+  }
+}
+
 @media (max-width: 1080px) {
   html {
-    font-size: 93.75%;
+    font-size: 80%;
   }
 }
 
 @media (max-width: 768px) {
   html {
-    font-size: 87.5%;
+    font-size: 60%;
+  }
+}
+
+@media (max-width: 550px) {
+  html {
+    font-size: 40%;
   }
 }

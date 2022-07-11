@@ -1,8 +1,9 @@
 .container {
-  margin-top: 3rem;
+  margin-top: 5rem;
+  height: 38rem;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
   padding: 0 3.5rem;
 
   h2 {
@@ -16,13 +17,35 @@
 
   .containerGrid {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr;
-    gap: 0px 0px;
-    grid-template-areas:
-      '. . .'
-      '. . .'
-      '. . .'
-      '. . .';
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 1rem 1rem;
+  }
+}
+
+
+@media (max-width: 1180px) {
+  .container {
+    align-items: center;
+    height: 60rem;
+    h2 {
+      width: 100%;
+      text-align: center;
+    }
+    .containerGrid {
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr 1fr;
+      gap: 1rem 1.5rem;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    height: 32rem;
+    .containerGrid {
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr 1fr;
+    }
   }
 }

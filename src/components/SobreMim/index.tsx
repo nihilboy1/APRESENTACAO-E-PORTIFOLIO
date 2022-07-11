@@ -3,7 +3,7 @@ import S from './style.module.scss'
 
 export function SobreMim() {
   return (
-    <section className={S.container}>
+    <section className={S.container} data-aos="fade-right">
       <div>
         <h2>Sobre Mim:</h2>
         <p>

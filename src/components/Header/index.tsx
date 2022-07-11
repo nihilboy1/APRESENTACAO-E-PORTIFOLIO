@@ -3,7 +3,7 @@ import S from './style.module.scss'
 
 export function Header() {
   return (
-    <header className={S.container}>
+    <header className={S.container} data-aos="fade-left">
       <h1>SAMUEL SEVE</h1>
       <div className={S.socialBox}>
         <a href="https://www.linkedin.com/in/samuelseve1/" target="_blank">

@@ -6,7 +6,7 @@ interface ProjetoProps {
 
 export function Projeto({ image, title }: ProjetoProps) {
   return (
-    <div className={S.container}>
+    <div className={S.container} data-aos="flip-up">
       <h3>{title}</h3>
       <a href="">
         <img src={image} alt="" />

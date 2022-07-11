@@ -2,7 +2,7 @@ import S from './style.module.scss'
 
 export function Educacao() {
   return (
-    <section className={S.container}>
+    <section className={S.container} data-aos="fade-right">
       <h2>Educação e Cursos:</h2>
       <p>Ensino médio completo e Inglês avançado</p>
       <p>
