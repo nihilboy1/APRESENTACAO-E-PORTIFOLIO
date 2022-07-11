@@ -11,6 +11,9 @@
   <li>
     <a href="https://nihilboy.netlify.app/">Meu portifólio / Página de apresentação</a>
   </li>
+  <li>
+    <a href="https://www.figma.com/file/8U3lFtiEDeqxQ0aTzlwwLA/Meu-portif%C3%B3lio">Projeto no figma</a>
+  </li>
 </ul>
 
 <h1>🛸 | Tecnologias</h1>
@@ -25,6 +28,7 @@
   <li>Vite</li>
   <li>React-icons</li>
   <li>AOS</li>
+  <li>Figma</li>
 </ul>
 
 <h1>👥 | Autor(es)</h1>
