@@ -5,7 +5,7 @@ export function Experiencia() {
     <section className={S.container}>
       <h2>Experiência Profissional</h2>
       <p className={S.cargo}>
-        <strong>Digitador</strong> na <strong>Leonnecred</strong> 2019 - 2022
+        <strong>Correspondente Bancário</strong> na <strong>Leonnecred</strong> 2019 - 2022
       </p>
       <p>
         Responsável por cadastrar e analisar propostas de empréstimo consignado

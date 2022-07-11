@@ -14,12 +14,36 @@ export function Projetos() {
     <section className={S.container}>
       <h2>Meus Projetos:</h2>
       <div className={S.gridContainer}>
-        <Projeto image={signupformImage} title="Sign-up Form Component" />
-        <Projeto image={timetrackerImage} title="Time Tracker Component" />
-        <Projeto image={pokenextImage} title="PokeNext Webpage" />
-        <Projeto image={nlwreturnImage} title="NLW Return" />
-        <Projeto image={worldtripImage} title="Worldtrip Webpage" />
-        <Projeto image={loopstudiosImage} title="Loopstudios Landing page" />
+        <Projeto
+          image={pokenextImage}
+          title="PokeNext Webpage"
+          url="https://pokenext-webpage.vercel.app/"
+        />
+        <Projeto
+          image={nlwreturnImage}
+          title="NLW Return"
+          url="https://nlw-return-hazel.vercel.app/"
+        />
+        <Projeto
+          image={worldtripImage}
+          title="Worldtrip Webpage"
+          url="https://worldtrip-webpage.netlify.app/"
+        />
+        <Projeto
+          image={loopstudiosImage}
+          title="Loopstudios Landing page"
+          url="https://loopstudios-landing-page-26.netlify.app/"
+        />
+        <Projeto
+          image={signupformImage}
+          title="Sign-up Form Component"
+          url="https://intro-component-with-signup-form13.netlify.app/"
+        />
+        <Projeto
+          image={timetrackerImage}
+          title="Time Tracker Component"
+          url="https://app.netlify.com/sites/time-tracking-dashboard-main19/overview"
+        />
       </div>
     </section>
   )
