@@ -1,6 +1,7 @@
 <h1>🚀 | Página de apresentação</h1>
 <h3>
-  Página de apresentação / Portifólio criado com design próprio desenvolvido no figma
+  Página de apresentação / Portifólio criado com design próprio desenvolvido no
+  figma
 </h3>
 
 <h1>🔎 | Vizualização do projeto</h1>
@@ -9,17 +10,26 @@
 <h1>👾 | Deploy</h1>
 <ul>
   <li>
-    <a href="https://nihilboy.netlify.app/">Meu portifólio / Página de apresentação</a>
+    <a href="https://nihilboy.netlify.app/"
+      >Meu portifólio / Página de apresentação</a
+    >
   </li>
+</ul>
+
+<h1>💅 | Figma Design</h1>
+<ul>
   <li>
-    <a href="https://www.figma.com/file/8U3lFtiEDeqxQ0aTzlwwLA/Meu-portif%C3%B3lio">Projeto no figma</a>
+    <a
+      href="https://www.figma.com/file/8U3lFtiEDeqxQ0aTzlwwLA/Meu-portif%C3%B3lio"
+      >Projeto no figma</a
+    >
   </li>
 </ul>
 
 <h1>🛸 | Tecnologias</h1>
 <p>
-  Na construção desse projeto, foram utilizadas as seguintes linguagens, libs
-  e frameworks:
+  Na construção desse projeto, foram utilizadas as seguintes linguagens, libs e
+  frameworks:
 </p>
 <ul>
   <li>HTML</li>
