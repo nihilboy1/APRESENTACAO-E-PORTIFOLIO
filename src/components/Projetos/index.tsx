@@ -42,7 +42,7 @@ export function Projetos() {
         <Projeto
           image={timetrackerImage}
           title="Time Tracker Component"
-          url="https://app.netlify.com/sites/time-tracking-dashboard-main19/overview"
+          url="https://time-tracking-dashboard-main19.netlify.app/"
         />
       </div>
     </section>
