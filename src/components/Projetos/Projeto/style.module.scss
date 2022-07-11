@@ -21,3 +21,13 @@
     }
   }
 }
+
+@media (max-width: 550px) {
+  .container {
+    img{
+      width: 50rem;
+      height: 30rem;
+      border-radius: 3rem 7rem 3rem 7rem;
+    }
+  }
+}
