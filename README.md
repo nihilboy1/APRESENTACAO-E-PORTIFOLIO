@@ -11,7 +11,7 @@
 <ul>
   <li>
     <a href="https://nihilboy.netlify.app/"
-      >Meu portifólio / Página de apresentação</a
+      >https://nihilboy.netlify.app/</a
     >
   </li>
 </ul>
