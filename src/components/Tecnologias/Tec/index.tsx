@@ -9,7 +9,7 @@ interface TecProps {
 
 export function Tec({ children, tecName }: TecProps) {
   return (
-    <div className={S.container} data-aos="zoom-in-up">
+    <div className={S.container} >
       {children}
       <p>{tecName}</p>
     </div>

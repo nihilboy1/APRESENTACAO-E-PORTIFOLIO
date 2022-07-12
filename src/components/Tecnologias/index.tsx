@@ -12,9 +12,9 @@ import { Tec } from './Tec'
 
 export function Tecnologias() {
   return (
-    <section className={S.container}>
+    <section className={S.container} >
       <h2>Tecnologias em Foco:</h2>
-      <div className={S.containerGrid}>
+      <div className={S.containerGrid} data-aos="zoom-in-up">
         <Tec tecName="React">
           <FaReact size="45" color="#4c3f91" />
         </Tec>
