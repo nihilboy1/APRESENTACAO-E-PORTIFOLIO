@@ -1,6 +1,6 @@
-<h1>🚀 | Página de apresentação</h1>
+<h1>🚀 | APRESENTAÇÃO E PORTIFÓLIO</h1>
 <h3>
-  Página de apresentação / Portifólio criado com design próprio desenvolvido no
+  Página de apresentação e Portifólio criada com base em design próprio desenvolvido no
   figma
 </h3>
 
@@ -11,7 +11,7 @@
 <ul>
   <li>
     <a href="https://nihilboy.netlify.app/"
-      >Meu portifólio / Página de apresentação</a
+      >https://nihilboy.netlify.app/</a
     >
   </li>
 </ul>
