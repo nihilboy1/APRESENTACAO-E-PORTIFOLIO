@@ -19,9 +19,9 @@ function App() {
     <main>
       <Header />
       <SobreMim />
-      <Educacao />
       <Projetos />
       <Experiencia />
+      <Educacao />
       <Tecnologias />
     </main>
   )
