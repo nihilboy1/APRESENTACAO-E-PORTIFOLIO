@@ -20,6 +20,7 @@ function App() {
       <Header />
       <SobreMim />
       <Projetos />
+      <Experiencia/>
       <Educacao />
       <Tecnologias />
     </main>
