@@ -5,7 +5,7 @@
 </h3>
 
 <h1>🔎 | Vizualização do projeto</h1>
-<img src="https://i.imgur.com/xBUwzHA.png" alt="Foto da aplicação" />
+<img src="https://i.imgur.com/nM5e4M1.png" alt="Foto da aplicação" />
 
 <h1>👾 | Deploy</h1>
 <ul>
