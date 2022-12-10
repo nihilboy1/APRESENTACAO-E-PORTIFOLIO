@@ -8,14 +8,13 @@ export function SobreMim() {
         <div>
           <h2>Sobre Mim:</h2>
           <p>
-            Olá, Bem vindo(a) a minha página de apresentação! <br />
-            Meu nome é <strong>Samuel</strong> e eu sempre gostei de tecnologia,
-            aprendizado e de resolver problemas. No meio de 2019 um amigo me
-            apresentou ao mundo da programação com <strong>Python</strong>,
-            através do canal do <strong>Gustavo Guanabara</strong>, mas foi só
-            no finalzinho de 2021 que a chave virou e eu decidi, de verdade, me
-            tornar um programador. No momento estou estudando desenvolvimento
-            web na <strong>Rocketseat,</strong> focado em me aprimorar como
+            Olá, <strong>meu nome é Samuel e eu sou um nerd. 😶</strong> <br />
+            Bem vindo(a) a minha página de apresentação! <br />
+            <br />
+            Meu primeiro passo em programação foi com <strong>Python</strong>,
+            através do canal do <strong>Gustavo Guanabara</strong>. <br /> No
+            momento estou estudando desenvolvimento web e mobile na{' '}
+            <strong>Rocketseat,</strong> focado em me aprimorar como
             desenvolvedor <strong>Full-Stack.</strong>
           </p>
         </div>
